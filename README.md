@@ -1,1 +1,2 @@
 # presensation
+- git & github study
